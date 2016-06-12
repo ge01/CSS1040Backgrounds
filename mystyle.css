@@ -1,0 +1,7 @@
+body {
+    background-image: url("https://pixabay.com/static/uploads/photo/2015/07/04/13/23/mongolia-831298_960_720.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
+}
